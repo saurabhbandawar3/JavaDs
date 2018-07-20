@@ -1,0 +1,12 @@
+package ds.linkedList;
+
+public class List {
+	int data;
+	Node next = null;
+	
+	Node (data){
+		
+	}
+	
+	
+}

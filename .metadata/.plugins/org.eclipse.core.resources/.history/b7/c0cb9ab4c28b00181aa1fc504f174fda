@@ -1,0 +1,16 @@
+package adt;
+
+public class Counter {
+	public Counter (String str) {
+		
+	}
+	public void increment() {
+		
+	}
+	public void getCurrentValue() {
+			
+		}
+	public void toStr() {
+		
+	}
+}
